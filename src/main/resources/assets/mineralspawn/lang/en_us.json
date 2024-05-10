@@ -1,0 +1,9 @@
+{
+  "item.mineralspawn.ruby": "Ruby",
+  "item.mineralspawn.sapphire": "Sapphire",
+
+  "block.mineralspawn.ruby_block": "Block of Ruby",
+  "block.mineralspawn.sapphire_block": "Block of Sapphire",
+
+  "creativetab.mineralspawn_tab": "Mineral Spawn"
+}

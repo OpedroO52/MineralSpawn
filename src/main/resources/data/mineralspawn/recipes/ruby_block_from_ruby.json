@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mineralspawn:ruby"
+    }
+  },
+  "result": {
+    "item": "mineralspawn:ruby_block"
+  }
+}
