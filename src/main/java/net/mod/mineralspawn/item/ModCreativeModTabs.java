@@ -22,7 +22,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.RUBY.get());
                         pOutput.accept(ModItems.SAPPHIRE.get());
 
-                        pOutput.accept(Items.DIAMOND);
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
 
                         pOutput.accept(ModBlocks.RUBY_BLOCK.get());
                         pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
