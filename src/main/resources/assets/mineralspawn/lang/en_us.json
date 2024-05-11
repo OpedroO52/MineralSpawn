@@ -4,6 +4,10 @@
 
   "block.mineralspawn.ruby_block": "Block of Ruby",
   "block.mineralspawn.sapphire_block": "Block of Sapphire",
+  "block.mineralspawn.ruby_ore": "Ruby Ore",
+  "block.mineralspawn.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.mineralspawn.sapphire_ore": "Sapphire Ore",
+  "block.mineralspawn.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
   "creativetab.mineralspawn_tab": "Mineral Spawn"
 }
