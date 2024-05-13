@@ -4,12 +4,20 @@
 
   "item.mineralspawn.metal_detector": "Metal Detector",
 
+  "item.mineralspawn.strawberry": "Strawberry",
+
+  "item.mineralspawn.carbon": "Carbon",
+
   "block.mineralspawn.ruby_block": "Block of Ruby",
   "block.mineralspawn.sapphire_block": "Block of Sapphire",
   "block.mineralspawn.ruby_ore": "Ruby Ore",
   "block.mineralspawn.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.mineralspawn.sapphire_ore": "Sapphire Ore",
   "block.mineralspawn.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
+  "block.mineralspawn.sound_block": "Sound Block",
+
+  "tooltip.mineralspawn.metal_detector.tooltip": "Finds iron, gold or diamonds underneath you!",
 
   "creativetab.mineralspawn_tab": "Mineral Spawn"
 }

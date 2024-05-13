@@ -24,12 +24,17 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
 
+                        pOutput.accept(ModItems.STRAWBERRY.get());
+                        pOutput.accept(ModItems.CARBON.get());
+
                         pOutput.accept(ModBlocks.RUBY_BLOCK.get());
                         pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
                         pOutput.accept(ModBlocks.RUBY_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_RUBY_ORE.get());
                         pOutput.accept(ModBlocks.SAPPHIRE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
+
+                        pOutput.accept(ModBlocks.SOUND_BLOCK.get());
                     })
                     .build());
 
