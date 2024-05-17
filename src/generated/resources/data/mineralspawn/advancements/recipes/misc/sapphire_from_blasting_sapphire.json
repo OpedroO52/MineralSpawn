@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sapphire": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineralspawn:sapphire"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mineralspawn:sapphire_from_blasting_sapphire"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sapphire"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mineralspawn:sapphire_from_blasting_sapphire"
+    ]
+  },
+  "sends_telemetry_event": false
+}

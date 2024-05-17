@@ -22,7 +22,10 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
     @Override
     protected void addTags(HolderLookup.Provider provider) {
         this.tag(ModTags.Blocks.METAL_DETECTOR_ORES)
-                .add(ModBlocks.SAPPHIRE_BLOCK.get())
+                .add(ModBlocks.SAPPHIRE_ORE.get(),
+                        ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get(),
+                        ModBlocks.RUBY_ORE.get(),
+                        ModBlocks.DEEPSLATE_RUBY_ORE.get())
                 .addTag(Tags.Blocks.ORES);
 
         this.tag(BlockTags.NEEDS_IRON_TOOL)
@@ -46,6 +49,13 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                         ModBlocks.SAPPHIRE_BLOCK.get(),
                         ModBlocks.SAPPHIRE_ORE.get(),
                         ModBlocks.DEEPSLATE_SAPPHIRE_ORE.get());
+
+        this.tag(BlockTags.FENCES)
+                .add(ModBlocks.SAPPHIRE_FENCE.get());
+        this.tag(BlockTags.FENCE_GATES)
+                .add(ModBlocks.SAPPHIRE_FENCE_GATE.get());
+        this.tag(BlockTags.WALLS)
+                .add(ModBlocks.SAPPHIRE_WALL.get());
 
     }
 }

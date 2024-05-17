@@ -1,0 +1,9 @@
+{
+  "values": [
+    "mineralspawn:sapphire_ore",
+    "mineralspawn:deepslate_sapphire_ore",
+    "mineralspawn:ruby_ore",
+    "mineralspawn:deepslate_ruby_ore",
+    "#forge:ores"
+  ]
+}

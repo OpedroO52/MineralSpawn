@@ -17,6 +17,16 @@
 
   "block.mineralspawn.sound_block": "Sound Block",
 
+  "block.mineralspawn.sapphire_stairs": "Sapphire Stairs",
+  "block.mineralspawn.sapphire_slab": "Sapphire Slab",
+  "block.mineralspawn.sapphire_button": "Sapphire Button",
+  "block.mineralspawn.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.mineralspawn.sapphire_fence": "Sapphire Fence",
+  "block.mineralspawn.sapphire_fence_gate": "Sapphire Gate",
+  "block.mineralspawn.sapphire_wall": "Sapphire Wall",
+  "block.mineralspawn.sapphire_door": "Sapphire Door",
+  "block.mineralspawn.sapphire_trapdoor": "Sapphire Trapdoor",
+
   "tooltip.mineralspawn.metal_detector.tooltip": "Finds iron, gold or diamonds underneath you!",
 
   "creativetab.mineralspawn_tab": "Mineral Spawn"

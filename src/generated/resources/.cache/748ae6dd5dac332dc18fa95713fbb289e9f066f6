@@ -1,0 +1,10 @@
+// 1.20.2	2024-05-17T01:05:57.3639272	Tags for minecraft:block mod id mineralspawn
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+189f92c0dda101adb75a9c6a974369dc2dadff50 data/minecraft/tags/blocks/fences.json
+1387fc33394245939d712c91cce0b51a6393dfb9 data/minecraft/tags/blocks/fence_gates.json
+07c2dbae97ba5957f4e0bffd693fd3edf59c5b0b data/minecraft/tags/blocks/mineable/pickaxe.json
+202277f813167abedbda4342ba9a79c78278bd4f data/minecraft/tags/blocks/needs_diamond_tool.json
+9376a26d58aaacb9a99dba3514fcb82611d23f86 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+1faa0e4ddd4d5bf35f7d965aa1eed509af1b78a1 data/minecraft/tags/blocks/walls.json
+ebfdf47deb6efdfe1b56ded4c8288cd777a92f70 data/mineralspawn/tags/blocks/metal_detector_ores.json
